@@ -7,13 +7,12 @@
 </p>
 
 <p>
-  <a href="https://joaop3dro-dev.github.io/portfolio/">
+  <a href="https://joaopedroalves.me/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:joaopedrodacruz.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-
 </p>
 
 </div>
@@ -80,7 +79,7 @@ I value clear domain boundaries, consistent data handling, explicit permissions,
 | E-commerce backend API covering accounts, products, carts, coupons, checkout, inventory, and customer orders.                | Bilingual website for a fictional specialty coffee brand, focused on visual identity, accessibility, localization, and responsive design. |
 | Transactional workflows, ownership enforcement, permission-controlled resources, efficient ORM queries, and automated tests. | Reusable components, localized routes, accessible interactions, structured metadata, and static export.                                   |
 | `Python` `Django` `DRF` `JWT` `SQLite` `Redis` `Docker Compose`                                                              | `JavaScript` `React` `Next.js` `Tailwind CSS` `GitHub Pages`                                                                              |
-| **Status:** Active development                                                                                               | **Status:** [Published demonstration](https://joaop3dro-dev.github.io/selva-roasting/)                                                    |
+| **Status:** Active development                                                                                               | **Status:** [Published demonstration](https://joaopedroalves.me/selva-roasting/)                                                          |
 
 ## What I Build
 
@@ -127,8 +126,8 @@ Currently strengthening:
 <a href="mailto:joaopedrodacruz.dev@gmail.com">
   <img src="https://img.shields.io/badge/Email-joaopedrodacruz.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://joaop3dro-dev.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-joaop3dro--dev.github.io-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
+<a href="https://joaopedroalves.me/">
+  <img src="https://img.shields.io/badge/Portfolio-joaopedroalves.me-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 
 </div>
